@@ -1,0 +1,67 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+/* HEADER */
+
+.logo {
+    width: 150px;
+}
+
+.logoAus {
+    width: 150px;
+}
+
+.logoRg {
+    width: 150px;
+}
+
+.logoWim {
+    width: 130px;
+}
+
+.logoUs {
+    width: 150px;
+}
+
+.fondoNavbar {
+    background-color: rgb(156, 180, 180);
+}
+
+.fuentesNav {
+    font-size: 2rem;
+}
+
+/* MAIN */
+
+h1 {
+    font-size: 5rem;
+}
+
+.imgCarousel {
+    height: 400px;
+    object-fit: cover;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+p {
+    text-align: justify;
+    font-size: 18px;
+    margin-left: 50px;
+    margin-right: 50px;
+    line-height: 40px;
+}
+
+/* FOOTER */
+
+footer {
+    font-size: 2rem;
+}
