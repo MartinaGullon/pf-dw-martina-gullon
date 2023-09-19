@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap");
+.titulosGral, .tituloSecundario {
+  color: rgb(14, 13, 13);
+  font-weight: bold;
+  font-size: 50px;
+}
+
+.tituloSecundario {
+  font-size: 30px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+.navbar .logo {
+  width: 150px;
+}
+.navbar .menu {
+  font-size: 30px;
+  font-weight: bold;
+  background-color: rgb(156, 180, 180);
+}
+.navbar:hover, .navbar:focus {
+  background-size: 100% 2px;
+}
+
+main p {
+  color: rgb(14, 13, 13);
+  font-weight: bold;
+  font-size: 18px;
+  text-align: justify;
+  margin-left: 50px;
+  margin-right: 50px;
+  line-height: 40px;
+}
+
+.imgCarousel {
+  height: 400px;
+  object-fit: cover;
+}
+
+footer {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=main.css.map */

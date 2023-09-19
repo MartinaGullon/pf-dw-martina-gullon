@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: $mainFont;
+}
+
+.navbar {
+    .logo {
+        width: 150px;
+    }
+    .menu {
+        font-size: $textMd;
+        font-weight: bold;
+        background-color: $mainColor;
+    }
+
+    &:hover,
+    &:focus {
+        background-size: 100% 2px;
+    }
+}
+
+main {
+    p {
+        color: $black;
+        font-weight: bold;
+        font-size: $textSm;
+        text-align: justify;
+        margin-left: 50px;
+        margin-right: 50px;
+        line-height: 40px;
+    }
+}
+
+.imgCarousel {
+    height: 400px;
+    object-fit: cover;
+}
+
+footer {
+    font-size: $textSm;
+    font-weight: bold;
+}

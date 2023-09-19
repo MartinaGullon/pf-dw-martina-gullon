@@ -1,0 +1,15 @@
+//extend
+.titulosGral {
+    color: $black;
+    font-weight: bold;
+    font-size: $textLg;
+}
+.tituloSecundario {
+    @extend .titulosGral;
+    font-size: $textMd;
+}
+
+//mixins
+@mixin logos ($width){
+    width: $width;
+}
