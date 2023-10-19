@@ -25,5 +25,5 @@ También se incluyó una sexta página, la de Error 404, la cual fue vinculada a
 
 ### Links
 - https://github.com/MartinaGullon/pf-dw-martina-gullon/tree/main
-- 
+- https://github.com/MartinaGullon/pf-dw-martina-gullon/blob/main/README.md
 - https://polite-trifle-032525.netlify.app/
